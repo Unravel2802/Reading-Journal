@@ -1,7 +1,5 @@
 # 📚 Machine Learning Research Journal
 
-Track your reading, insights, and ideas while exploring ML literature.
-
 ---
 
 ## 📄 Paper Entry

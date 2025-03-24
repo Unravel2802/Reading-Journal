@@ -1,5 +1,7 @@
 ## 📄 Paper Entry
 
+---
+
 ### Title: Rationalizing Neural Predictions
 **Authors:** Tao Lei, Regina Barzilay and Tommi Jaakkola
 **Conference/Journal + Year:** arXiv 2016

@@ -4,9 +4,9 @@
 
 ### Title: Rationalizing Neural Predictions
 **Authors:** Tao Lei, Regina Barzilay and Tommi Jaakkola
-**Conference/Journal + Year:** arXiv 2016
-**Link:** [arXiv / OpenReview / DOI] https://arxiv.org/abs/1606.04155
-**Tags:** `#NLP`
+**Conference/Journal + Year: arXiv 2016**
+**Link: [arXiv / OpenReview / DOI] https://arxiv.org/abs/1606.04155**
+**Tags: `#NLP`**
 
 ---
 
